@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\productprojectaspnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\productprojectaspnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241124143556_UpdatedModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductProjectASPNETCORE\\Migrations\\20241124143556_UpdatedModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\migrations\\20241123143122_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\migrations\\20241123143122_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|d:\\.netpracticedaily\\productprojectaspnetcore\\productprojectaspnetcore\\migrations\\20241123154201_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD74963-CB1D-446D-BA62-D35A1D6FA4E8}|ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj|solutionrelative:productprojectaspnetcore\\migrations\\20241123154201_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwFsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:45:12.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Models\\ProductViewModel.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:11:15.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241124143556_UpdatedModel.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241124143556_UpdatedModel.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Migrations\\20241124143556_UpdatedModel.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241124143556_UpdatedModel.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Migrations\\20241124143556_UpdatedModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:35:57.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductProjectASPNETCORE",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\ProductProjectASPNETCORE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T14:01:57.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T15:55:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241123154201_second Migration.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241123154201_second Migration.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Migrations\\20241123154201_second Migration.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241123154201_second Migration.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Migrations\\20241123154201_second Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:42:05.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T14:52:46.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:47:51.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241123143122_Initial Migration.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241123143122_Initial Migration.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Migrations\\20241123143122_Initial Migration.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Migrations\\20241123143122_Initial Migration.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Migrations\\20241123143122_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:31:24.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Program.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Program.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Program.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:25:25.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\appsettings.json",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\appsettings.json",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T14:21:36.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Data\\ProductDbContext.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:19:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductProjectASPNETCORE\\Models\\Product.cs",
+              "ToolTip": "D:\\.NETPRACTICEDAILY\\ProductProjectASPNETCORE\\ProductProjectASPNETCORE\\Models\\Product.cs",
+              "RelativeToolTip": "ProductProjectASPNETCORE\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:05:54.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

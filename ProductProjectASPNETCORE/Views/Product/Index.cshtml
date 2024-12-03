@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+ <h1>Product List</h1>
+
+<a asp-action="Create" class="btn btn-primary">Add Product</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Product Category</th>
+            <th>Product Freshness</th>
+            <th>Image of Product</th>
+            <th>Additional Description</th>
+            <th>Product Price</th>
+            <th>Product MRP</th>
+            <th>Manager Email</th>
+            <th>Manager Phone Number</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.productName</td>
+                <td>@item.ProductCategory</td>
+                 <td>@item.Productfreshness</td>
+                <td><img src="images/@item.ImageOfProduct" class="rounded-circle" width="40" height="40" asp-append-version="true" /></td>
+                <td>@item.AdditionalDescription</td>
+                <td>@item.ProductPrice</td>
+                <td>@item.ProductMRP</td>
+                <td>@item.ManagerEmail</td>
+                <td>@item.ManagerPhoneNumber</td>
+              <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                    <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure you want to delete this product?');">
+                        <input type="hidden" name="Id" value="@item.Id" />
+                <button type="submit" class="btn btn-danger">Delete</button>
+            </form>
+                
+              </td>
+            </tr>
+            
+        }
+    </tbody>
+</table>

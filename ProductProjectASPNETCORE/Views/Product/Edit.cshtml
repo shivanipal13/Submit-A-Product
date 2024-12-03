@@ -1,0 +1,110 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Product
+
+<h1>Edit the Product Details</h1>
+
+<form asp-action="Edit" enctype="multipart/form-data" method="post">
+
+    @* Hidden field for Product ID *@
+    <input asp-for="Id" type="hidden" />
+    <div class="mb-3">
+        @*    asp-for attribute should match the name of the model property. *@
+        <label asp-for="productName">Product Name   </label>
+        <input asp-for="productName" type="text" />
+        <span asp-validation-for="productName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Product Category   </label>
+        <select asp-for="ProductCategory">
+            <option>Please Select</option>
+            <option>Electronics</option>
+            <option>Furniture</option>
+            <option>Clothing</option>
+        </select>
+        @*    ASP VALIDATION MESSAGE DISPLAY INSIDE SPAN TAG *@
+        <span asp-validation-for="ProductCategory" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 d-flex">
+        <label asp-for="Productfreshness">Product Freshness     </label>
+        <div class="radio-group d-flex">
+            <input type="radio" asp-for="Productfreshness" value="Brand New" /> Brand New
+            <input type="radio" asp-for="Productfreshness" value="Second Hand" /> Second Hand
+            <input type="radio" asp-for="Productfreshness" value="Refurbished" /> Refurbished
+        </div>
+        <span asp-validation-for="Productfreshness" class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="ImageOfProduct">Image Of Product</label>
+        <input type="file" name="ImageOfProduct" />
+        <span asp-validation-for="ImageOfProduct" class="text-danger"></span>
+    </div>
+
+
+    <div class="mb-3">
+        <label asp-for="AdditionalDescription">Additional Description</label>
+        <textarea asp-for="AdditionalDescription"></textarea>
+        <span asp-validation-for="AdditionalDescription" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 d-flex">
+
+
+        <div class="me-3">
+            <label asp-for="ProductPrice">Product Price  </label>
+            <input asp-for="ProductPrice" placeholder="Ex:$5" />
+            <span asp-validation-for="ProductPrice" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="ProductMRP">Product MRP  </label>
+            <input asp-for="ProductMRP" />
+            <span asp-validation-for="ProductMRP" class="text-danger"></span>
+        </div>
+
+    </div>
+
+
+    @* <div class="mb-3">
+    <label asp-for="ManagerEmail"></label>
+    <input asp-for="ManagerEmail" />
+    <span asp-validation-for="ManagerEmail" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+    <label asp-for="ManagerPhoneNumber"></label>
+    <input asp-for="ManagerPhoneNumber" />
+    <span asp-validation-for="ManagerPhoneNumber" class="text-danger"></span>
+    </div>
+    *@
+
+    <div class="mb-3 d-flex">
+        <div class="me-3">
+            <label asp-for="ManagerEmail">Manager Email </label>
+            <input asp-for="ManagerEmail" />
+            <span asp-validation-for="ManagerEmail" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="ManagerPhoneNumber"> Manager Phone Number</label>
+            <input asp-for="ManagerPhoneNumber" />
+            <span asp-validation-for="ManagerPhoneNumber" class="text-danger"></span>
+        </div>
+    </div>
+
+
+
+    <div class="mb-3">
+
+        <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+
+</form>
